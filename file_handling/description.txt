@@ -1,0 +1,4 @@
+File is a collection of data stored in a disk
+there are 2 main types of File
+1> text file : Human readable e.g. .txt , .csv
+2> binary file : machine readable e.g. .exe, images 

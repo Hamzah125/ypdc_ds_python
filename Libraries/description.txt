@@ -1,0 +1,19 @@
+# module is a python file that contains different
+ functions to perform a specific kinda task and which 
+can simply be used by importing it in different files
+
+
+# package is a folder which contains multiple modules & this contains
+__init__.py file which help in
+ calling it and defines this folder or directory as a package
+
+ # for the installation of third party library we use pip 
+
+ built_in functions: print , len(), sum(),count()
+
+ built_in modules: math, random, os
+
+ built in packages: json, html, email
+
+third party libraries : numpy , pandas, sickit learn,
+
