@@ -1,0 +1,10 @@
+# OOP is a concept that revolves around classes and objects
+It has many benifits, Reusabilty, easy maintenance, Scalability , 
+Modularity
+
+CLASSES: IS like a blueprint e.g: cars 4 wheeler, windscreeen, engine 
+object: actual instance e.g Corolla 1988
+Inheritence: inheriting properties from parent class: F1: 1 seater
+Encapsulation : Bind data & functions in 1 unit and hide internal details 
+Polymorphism: same method name; deifferent behavior depending on objects
+Abstraction: hiding unneccesary details , present only necessary
