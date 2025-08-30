@@ -1,0 +1,16 @@
+Item,Category,Price,Quantity,City,Store
+Apples,Fruit,120,50,Lahore,FreshMart
+Bananas,Fruit,90,30,Karachi,GreenStore
+Milk,Dairy,200,20,Islamabad,DairyLand
+Bread,Bakery,150,40,Lahore,BakeHouse
+Eggs,Dairy,220,60,Karachi,DailyMart
+Tomatoes,Vegetable,80,25,Faisalabad,AgroFresh
+Potatoes,Vegetable,70,100,Islamabad,GreenValley
+Chicken,Meat,650,15,Lahore,MeatMaster
+Fish,Meat,850,10,Karachi,SeaFresh
+Rice,Grains,3000,5,Faisalabad,GrainHouse
+Sugar,Grains,150,20,Islamabad,DailyNeeds
+Tea,Beverages,950,8,Lahore,TeaHouse
+Coffee,Beverages,1200,6,Karachi,CafeMart
+Juice,Beverages,250,12,Faisalabad,FreshDrinks
+Cheese,Dairy,750,7,Islamabad,DairyLand

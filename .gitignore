@@ -10,3 +10,11 @@ __pycache__/
 # Ignore log files
 *.log
 # Ignore compiled files
+
+grocery.csv/
+student_exam_scores.csv/
+test.csv/
+merged_data.csv/
+merged_data_1.csv/
+grocery.csv/
+

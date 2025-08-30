@@ -7,4 +7,9 @@ object: actual instance e.g Corolla 1988
 Inheritence: inheriting properties from parent class: F1: 1 seater
 Encapsulation : Bind data & functions in 1 unit and hide internal details 
 Polymorphism: same method name; deifferent behavior depending on objects
-Abstraction: hiding unneccesary details , present only necessary
+Abstraction: hiding unneccesary details , present only necessary, is a principle in oo-p which hide internal details of implementaation and show 
+only necessrary procedures
+reduces the complexity, reusability, security and code modulation , it tells what not How
+
+Polymorphism is same function/method which behaves differently depending on different object or datatype
+it makes  our code more flexible, reusable, elegant, instead of writing multiple functions you can write one and make it interfere in diffrent situations
